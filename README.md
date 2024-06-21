@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm SUMAIYA JANNATI
 Profile Hits:   [![HitCount](https://hits.dwyl.com/sumaiya200207/sumaiya200207.svg?style=flat-square)](http://hits.dwyl.com/sumaiya200207/sumaiya200207)
 
 <!--
@@ -6,7 +6,7 @@ Profile Hits:   [![HitCount](https://hits.dwyl.com/sumaiya200207/sumaiya200207.s
 --!>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on research
+## 🔭 I’m currently working on research
 - 🌱 I’m currently learning how to keep my mouth off
 - 👯 I’m looking to collaborate on turors
 - 🤔 I’m looking for help with developers
