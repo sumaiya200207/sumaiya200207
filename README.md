@@ -1,9 +1,7 @@
-## Hi there 👋 I'm SUMAIYA JANNATI. I'm currently studying at KHULNA UNIVERSITY
-Profile Hits:   [![HitCount](https://hits.dwyl.com/sumaiya200207/sumaiya200207.svg?style=flat-square)](http://hits.dwyl.com/sumaiya200207/sumaiya200207)
+## Hi there 👋 I'm SUMAIYA JANNATI. 
+I'm currently studying at KHULNA UNIVERSITY
 
-<!--
-**sumaiya200207/sumaiya200207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
+Profile Hits:   [![HitCount](https://hits.dwyl.com/sumaiya200207/sumaiya200207.svg?style=flat-square)](http://hits.dwyl.com/sumaiya200207/sumaiya200207)
 
 🔭 I’m currently working on research
 - 🌱 I’m currently learning how to keep my mouth off
