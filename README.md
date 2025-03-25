@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm SUMAIYA JANNATI. 
-I'm currently studying at KHULNA UNIVERSITY
+I'm recently fresh graduate from Computer Science and Engineering, KHULNA UNIVERSITY
 
 Profile Hits:   [![HitCount](https://hits.dwyl.com/sumaiya200207/sumaiya200207.svg?style=flat-square)](http://hits.dwyl.com/sumaiya200207/sumaiya200207)
 
