@@ -5,7 +5,7 @@ Profile Hits:   [![HitCount](https://hits.dwyl.com/sumaiya200207/sumaiya200207.s
 
 🔭 I’m currently working on research
 - 🌱 I’m currently learning how to keep my mouth off
-- 👯 I’m looking to collaborate on turors
+- 👯 I’m looking to collaborate on tutors
 - 🤔 I’m looking for help with developers
 - 💬 Ask me about anything
 - 📫 How to reach me: @sumaiya200207 (Github)
